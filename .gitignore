@@ -1,0 +1,6 @@
+# ignore environment files
+.env
+config/secrets.json
+*.key
+
+
