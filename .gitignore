@@ -2,5 +2,6 @@
 .env
 config/secrets.json
 *.key
-
+ssh-key-github
+ssh-key-github.hub
 
